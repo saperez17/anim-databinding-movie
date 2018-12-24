@@ -6,6 +6,11 @@ apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 28
+    //El dataBinding (enlace de datos) permite integrar cargar de manera directa valores a las propiedades de los
+    //elementos en las vistas de Android (Activities)
+    dataBinding{
+        enabled true
+    }
     defaultConfig {
         applicationId "com.cluster.android.constraintanim"
         minSdkVersion 19
