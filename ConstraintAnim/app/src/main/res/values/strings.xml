@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintAnim</string>
+    <string name="ic_time">Fecha</string>
+    <string name="ic_time_txt">12 de diciembre</string>
+    <string name="txtDescription">Descripcion</string>
+    <string name="txtTime">2 horas</string>
+    <string name="movieName">Nombre Pelicula</string>
+</resources>
